@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+}
+.body{
+	background-color: #d9e0e7;
+}
+.centrado{
+	text-align: center;
+	padding:20px 0px;
+	background-color: white;
+	margin-top:0px;
+}
+.contenedor{
+	margin:10% 10%;
+	padding: 0px 20%;
+	background-color: white;
+}
+.forma{
+	padding:5% 0px;
+}
+.ubicar{
+	text-align: center;
+}
+
+.global{
+	height:100%;
+}
+
+label{
+	margin: 15px 0px;
+}
+input{
+	margin-top:5px;
+}
+.send{
+	background-color: #00acac!important;
+	border-color: #00acac!important;
+	margin:15px 0px;
+}
+.send:hover{
+	background-color: #008a8a!important;
+	border-color: #008a8a!important;
+}
+.end{
+	height:30%;
+	text-align: center;
+}
